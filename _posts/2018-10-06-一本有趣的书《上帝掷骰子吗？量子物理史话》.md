@@ -5,10 +5,10 @@ subtitle:   科学故事也很有趣 #副标题
 date:       2018-10-06              # 时间
 author:     zhangzhe                      # 作者
 header-img: img/404-bg.jpg    #这篇文章标题背景图片
-stickie: true
+Reading: true
 catalog: true                       # 是否归档
 tags:                               #标签
-    - Reading;阅读，科学
+    - 阅读，科学
 ---
  
 ![索尔维会议参会人员合影](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Solvay-Confe-z.jpg)
