@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      读《上帝掷骰子吗？量子物理史话》${\rm I}$               # 标题 
+title:      读《上帝掷骰子吗？量子物理史话》I               # 标题 
 subtitle:   科学故事也很有趣 #副标题
 date:       2018-10-06              # 时间
 author:     zhangzhe                      # 作者
