@@ -119,4 +119,4 @@ headerNumber4Content: false  # 为正文标题添加编号
 
 
 # lightbox 图片预览插件
-lightbox: true
+#lightbox: true
