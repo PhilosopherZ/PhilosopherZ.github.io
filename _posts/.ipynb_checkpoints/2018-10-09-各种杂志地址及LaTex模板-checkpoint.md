@@ -8,6 +8,9 @@ header-img: img/404-bg.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 科研
+    - 大气科学
+    - 杂志投稿
+    - LaTex模板
 ---
 
 ### [地学等领域影响因子top10期刊](https://mp.weixin.qq.com/s/JjSyCZIAxemYEUHDxKNgiA)

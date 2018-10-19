@@ -8,7 +8,9 @@ header-img: img/404-bg.jpg    #这篇文章标题背景图片
 Reading: true
 catalog: true                       # 是否归档
 tags:                               #标签
-    - 阅读-科学
+    - 读书
+    - 科学史
+    - 量子物理
 ---
  
 ![索尔维会议参会人员合影](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Solvay-Confe-z.jpg)
