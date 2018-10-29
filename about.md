@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "文明其精神，野蛮其体魄"
+description: "**文明其精神，野蛮其体魄**"
 header-img: "img/post-BeachSoccerBoys.jpg"
 ---
 
