@@ -8,7 +8,6 @@ header-img: img/404-bg.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 绘画
-    - 艺术
 ---
  
 有时候随便画画
