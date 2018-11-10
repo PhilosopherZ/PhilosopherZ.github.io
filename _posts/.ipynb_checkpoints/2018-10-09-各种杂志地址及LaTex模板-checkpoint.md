@@ -9,8 +9,15 @@ catalog: true                       # 是否归档
 tags:                               #标签
     - 科研
 ---
+## 大气科学杂志一览（按排名）
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-1.jpg)
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-2.jpg)
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-3.jpg)
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-4.jpg)
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-5.jpg)
 
-### [地学等领域影响因子top10期刊](https://mp.weixin.qq.com/s/JjSyCZIAxemYEUHDxKNgiA)
+
+## [地学等领域影响因子top10期刊](https://mp.weixin.qq.com/s/JjSyCZIAxemYEUHDxKNgiA)
 - 如大气科学科学领域(ATMOSPHERIC SCIENCES)  
 
 |Rank | Journal Title | IF/投稿经验|LaTex模板地址 |  
