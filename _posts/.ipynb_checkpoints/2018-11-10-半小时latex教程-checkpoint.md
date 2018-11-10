@@ -13,7 +13,7 @@ tags:                               #标签
  > *The only thing we have to fear is fear itself — nameless, unreasoning, unjustified terror, which paralyzes needed efforts to convert retreat into advance. ——Franklin Roosevelt*
 
 
-##  <font color=#FF4500 >Notes</font>：  
+## Notes：  
 >我要严厉警告和强烈声讨那些自以为是advanced LaTeX user的人。请你们不要为了自己那一点可怜可悲的虚荣心，去刻意渲染LaTeX有多么高端多么不容易学习，这和孔乙己炫耀茴香豆的茴字有四种写法有什么区别么？混账！LaTeX到底有多“难”你们自己清楚好么？同理的还有很大一部分的VI user，还有Linux user，还有Fallout player。卧槽，一个软件而已，有什么好显摆的。别人想学LaTeX，好，你随手给人家丢一个几百页的英文Manual，显得自己很高端吗？你自己看过了吗？你推荐给别人的时候真的有希望别人看完吗？只是装逼的话就是混账！   
 我写这一篇教程的动机，正是因为网络上能够找到的简要速成的LaTeX教程完全没有。我能找得到的最简短或是说在我看来最具有指导意义的，就是那篇《一份不太简短的LaTeX介绍》。然而对于希望迅速对LaTeX有所了解的人，那一篇“不太简短的介绍”也仍旧稍嫌略长，我当初在入门时也研究了整晚。在LaTeX社区群里聊得久了，大家都是朋友，既然缺了这一块我又有闲情，那么就补上了。因此我写了这一篇教程，完全是以教会新人上手为目的，把华而不实的内容统统略去，**确保能够在三十分钟内跟着这个教程走完全步骤就可以基本算是“玩转LaTeX”了。**这个三十分钟的时长，是我帮助我身边的朋友开始接触LaTeX入门的常规时间，是经验积累的结果。至于其他LaTeX教程攻略，我个人推荐是在看完这一篇之后，再随意当字典或百科全书来查阅。——引自[【写作】Texlive和Texmaker学习](https://blog.csdn.net/zb1165048017/article/details/52785177)  
 
