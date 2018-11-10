@@ -4,7 +4,7 @@ title:      # 半小时LaTex 教程               # 标题
 subtitle:   多用LaTex #副标题
 date:       2018-11-10              # 时间
 author:     zhangzhe                      # 作者
-header-img: img/post-z-firststep    #这篇文章标题背景图片
+header-img: img/desert    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - LaTex
