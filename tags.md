@@ -14,19 +14,7 @@ header-img: "img/post-bg-unix-linux.jpg"
 
 ## 我的航海志
 
-<!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading" id="tag-heading">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <span class="subheading">{{ page.description }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+
 
 <!-- Main Content -->
 <div class="container">
@@ -55,8 +43,7 @@ header-img: "img/post-bg-unix-linux.jpg"
 				  <li class="listing-item">
 				  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-				  </li> 
-				 
+				  </li> 				 
 				<hr>
 				{% endfor %}
 			</div>
