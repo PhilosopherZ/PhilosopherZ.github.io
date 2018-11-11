@@ -18,7 +18,7 @@ sidebar-avatar: /img/my_selfie1.jpg      # use absolute URL, seeing it's used in
 
 # SNS settings
 RSS: false
-weibo_username:     ilhelium
+#weibo_username:     ilhelium
 #zhihu_username:     qiubaiying
 github_username:    PhilosopherZ
 #facebook_username:  baiying.qiu.7
