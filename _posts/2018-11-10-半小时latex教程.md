@@ -20,10 +20,10 @@ tags:                               #标签
 其他参考
 - [LaTeX初识 新手入门 Texlive和Texmaker学习](https://www.cnblogs.com/hellowooorld/p/6971974.html)  
 - [一份其实很短的 LaTeX 入门文档 ](https://liam0205.me/2014/09/08/latex-introduction/)    
-- [Latex引用参考文献-BibTex的使用](https://blog.csdn.net/caiandyong/article/details/70258670)
 
 
-很喜欢上面那段话。我按他里面讲的试了一下，一步步操作就可以了，最后生成pdf那一刻，还是会兴奋一下的。
+
+很喜欢上面那段话。选择上面任何一个，按步骤一步步操作就可以了。
 
 <video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-latex3.jpg">
     <source id="mp4" src="https://github.com/PhilosopherZ/ImgeBed/blob/master/Imges/post-latex-video.mp4"
@@ -43,16 +43,20 @@ tags:                               #标签
 </center>
 
 ## 公式编辑
-### [LaTeX 符号命令大全](https://www.cnblogs.com/Coolxxx/p/5982439.html)
 
+- [LaTeX 符号命令大全](https://www.cnblogs.com/Coolxxx/p/5982439.html)  
+举例：
+$$k'(x)=\lim_{\Delta x\to 0}\frac{k(x)-k(x-\Delta x)}{\Delta x}$$
 
+- [latex公式中的空格如何表示](https://blog.csdn.net/bennyfun79/article/details/15500575)
+-[How does latex add custom formula Numbers](https://tex.stackexchange.com/questions/164640/customize-equation-numbering-for-equation-environment)  
 
 
 ## 图片插入
 
 ### 插入单个图片,居中
 
-[LaTeX排版札记：part 4—插入图片（并排显示、自定义编号）](https://zhuanlan.zhihu.com/p/32925549)
+- [LaTeX排版札记：part 4—插入图片（并排显示、自定义编号）](https://zhuanlan.zhihu.com/p/32925549)
 
 
 
@@ -61,7 +65,12 @@ tags:                               #标签
 
 
 
+- [Latex引用参考文献-BibTex的使用](https://blog.csdn.net/caiandyong/article/details/70258670)
 
+
+## 其他
+
+- [LaTeX 中少量俄文的输入](https://blog.csdn.net/beta_2187/article/details/53422935)  
 
 
   
