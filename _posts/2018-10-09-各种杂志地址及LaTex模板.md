@@ -8,6 +8,7 @@ header-img: img/404-bg.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 科研
+    大气科学
 ---
 ## 大气科学杂志一览（按排名）
 ![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-1.jpg)
@@ -60,11 +61,11 @@ tags:                               #标签
 |[1](https://www.springer.com/earth+sciences+and+geography/atmospheric+sciences/journal/10546?detailsPage=pltci_3498553)|[boundary layer meteorology](https://link.springer.com/journal/10546)||  
 |[2](https://www.elsevier.com/authors/author-schemas/latex-instructions)|[Atmospheric Environment](https://www.journals.elsevier.com/atmospheric-environment/)||  
 |[3](https://publications.agu.org/author-resource-center/checklists-and-templates/)|[Geophysical Research Letters](https://grl-submit.agu.org/cgi-bin/main.plex) || 
-|4|.......||
-|5|||
-|6|||
-|7|||
-|8|||
+|4|[Atmospheric Research](https://www.sciencedirect.com/journal/atmospheric-research)| 3.817   |[letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=955) 
+ 5|          |          |
+|6|            ||
+|7|     ||
+|8|           ||
 
 ---
 
