@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      大气科学领域杂志地址、投稿经验、LaTex模板总结              # 标题 
+title:      大气科学领域杂志投稿经验和LaTex模板总结              # 标题 
 subtitle:   多用LaTex #副标题
 date:       2018-10-09              # 时间
 author:     zhangzhe                      # 作者
