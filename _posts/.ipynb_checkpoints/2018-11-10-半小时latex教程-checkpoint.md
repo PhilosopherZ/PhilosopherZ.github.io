@@ -25,11 +25,6 @@ tags:                               #标签
 
 很喜欢上面那段话。选择上面任何一个，按步骤一步步操作就可以了。
 
-<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-latex3.jpg">
-    <source id="mp4" src="https://github.com/PhilosopherZ/ImgeBed/blob/master/Imges/post-latex-video.mp4"
-    type="video/mp4">
-</video>
-
 
 ## Win10 Latex 配置与例子
 

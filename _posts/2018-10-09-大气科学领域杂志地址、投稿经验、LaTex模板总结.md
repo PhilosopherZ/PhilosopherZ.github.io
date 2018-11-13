@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      大气科学领域杂志地址及对应LaTex模板               # 标题 
+title:      大气科学领域杂志地址、投稿经验、LaTex模板总结              # 标题 
 subtitle:   多用LaTex #副标题
 date:       2018-10-09              # 时间
 author:     zhangzhe                      # 作者
@@ -10,12 +10,6 @@ tags:                               #标签
     - 科研
     大气科学
 ---
-## 大气科学杂志一览（按排名）
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-1.jpg)
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-2.jpg)
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-3.jpg)
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-4.jpg)
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Atmospheric-journal-5.jpg)
 
 
 ## [地学等领域影响因子top10期刊](https://mp.weixin.qq.com/s/JjSyCZIAxemYEUHDxKNgiA)
