@@ -1,16 +1,15 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      大气科学领域杂志top期刊投稿经验和LaTex模板总结              # 标题 
+title:      大气科学领域杂志top期刊投稿经验和LaTex模板总结               # 标题 
 subtitle:   多用LaTex #副标题
-date:       2018-11-14              # 时间
+date:       2017-10-09              # 时间
 author:     zhangzhe                      # 作者
 header-img: img/404-bg.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 科研
-    大气科学
+    - 大气科学
 ---
-
 
 ## [地学等领域影响因子top10期刊](https://mp.weixin.qq.com/s/JjSyCZIAxemYEUHDxKNgiA)
 - 如大气科学科学领域(ATMOSPHERIC SCIENCES)  
