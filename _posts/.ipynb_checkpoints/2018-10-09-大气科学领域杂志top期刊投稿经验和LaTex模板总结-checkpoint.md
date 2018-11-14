@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      大气科学领域杂志投稿经验和LaTex模板总结              # 标题 
+title:      大气科学领域杂志top期刊投稿经验和LaTex模板总结              # 标题 
 subtitle:   多用LaTex #副标题
 date:       2018-10-09              # 时间
 author:     zhangzhe                      # 作者
@@ -54,7 +54,7 @@ tags:                               #标签
 |---|-----------------|----|----|
 |[1](https://www.springer.com/earth+sciences+and+geography/atmospheric+sciences/journal/10546?detailsPage=pltci_3498553)|[boundary layer meteorology](https://link.springer.com/journal/10546)||  
 |[2](https://www.elsevier.com/authors/author-schemas/latex-instructions)|[Atmospheric Environment](https://www.journals.elsevier.com/atmospheric-environment/)||  
-|[3](https://publications.agu.org/author-resource-center/checklists-and-templates/)|[Geophysical Research Letters](https://grl-submit.agu.org/cgi-bin/main.plex) || 
+|[3](https://publications.agu.org/author-resource-center/checklists-and-templates/)|[Geophysical Research Letters](https://grl-submit.agu.org/cgi-bin/main.plex) | 3.708| [letpub](http://www.letpub.com.cn/index.php?journalid=953&page=journalapp&view=detail)
 |4|[Atmospheric Research](https://www.sciencedirect.com/journal/atmospheric-research)| 3.817   |[letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=955) 
  5|          |          |
 |6|            ||
