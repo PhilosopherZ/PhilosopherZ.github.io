@@ -15,9 +15,8 @@ tags:                               #标签
 
 ![索尔维会议参会人员合影](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Solvay-Confe-z.jpg)
 
-<center>       决战量子之巅-索尔维会议参会人员合影
-  
-      
+<center>       决战量子之巅-索尔维会议参会人员合影    
+    
 读过一本非常棒的书－《上帝掷骰子吗？量子物理史话》，它让我们有机会感受那个“物理学上最激动人心的篇章，我们会看到物理大厦在狂风暴雨下轰然坍塌，却又在熊熊烈焰中得到了洗礼和重生。”
 
 > 引子  

@@ -14,10 +14,10 @@ tags:                               #标签
 ## [地学等领域影响因子top10期刊](https://mp.weixin.qq.com/s/JjSyCZIAxemYEUHDxKNgiA)
 - 如大气科学科学领域(ATMOSPHERIC SCIENCES)  
 
-|Rank | Journal Title | IF/投稿经验|LaTex模板地址 |  
-|---|-----------------|----|---------|
-| 1 | [Nature  Climate Change](https://www.nature.com/nclimate/) | [19.181](http://www.letpub.com.cn/index.php?journalid=8632&page=journalapp&view=detail) ||
-| 2 | [Earth System Science Data](https://www.earth-system-science-data.net/) | [8.792](http://www.letpub.com.cn/index.php?journalid=9985&page=journalapp&view=detail) ||
+|Rank/LaTex | Journal Title | IF/投稿经验| 
+|---|-----------------|----|
+| 1 | [Nature  Climate Change](https://www.nature.com/nclimate/) | [19.181](http://www.letpub.com.cn/index.php?journalid=8632&page=journalapp&view=detail) |
+| 2 | [Earth System Science Data](https://www.earth-system-science-data.net/) | [8.792](http://www.letpub.com.cn/index.php?journalid=9985&page=journalapp&view=detail) |
 | 3 | Bulletin  Of The American Meteorological Society  | 7.804 |
 | 4 | Atmospheric Chemistry And Physics | 5.509 |
 | 5 | Wiley  Interdisciplinary Reviews-Climate Change  | 5.124 |
@@ -55,7 +55,7 @@ tags:                               #标签
 |[2](https://www.elsevier.com/authors/author-schemas/latex-instructions)|[Atmospheric Environment](https://www.journals.elsevier.com/atmospheric-environment/)||  
 |[3](https://publications.agu.org/author-resource-center/checklists-and-templates/)|[Geophysical Research Letters](https://grl-submit.agu.org/cgi-bin/main.plex) | 3.708| [letpub](http://www.letpub.com.cn/index.php?journalid=953&page=journalapp&view=detail)
 |4|[Atmospheric Research](https://www.sciencedirect.com/journal/atmospheric-research)| 3.817   |[letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=955) 
- 5|          |          |
+ 5|[Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution)|4.358|[letpub](http://www.letpub.com.cn/index.php?journalid=2560&page=journalapp&view=detail)
 |6|            ||
 |7|     ||
 |8|           ||
