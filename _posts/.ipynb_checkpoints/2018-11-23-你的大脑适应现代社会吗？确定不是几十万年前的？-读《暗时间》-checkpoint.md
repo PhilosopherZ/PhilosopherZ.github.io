@@ -1,8 +1,8 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      你的大脑适应现代社会吗？确定不是几十万年前的？-读《暗时间》              # 标题 
-subtitle:   科学故事也很有趣 #副标题
-date:       2017-04-18              # 时间
+subtitle:   可能自然的进化不足以让我们生存的更好 #副标题
+date:       2018-11-23              # 时间
 author:     zhangzhe                      # 作者
 header-img: img/post-Gravity.jpg    #这篇文章标题背景图片
 Reading: true
