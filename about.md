@@ -20,8 +20,8 @@ header-img: "img/post-BeachSoccerBoys.jpg"
     </ul>
 </div>
 
-<center> 贺新郎·读史  
-<center>   毛泽东  
+<center> 贺新郎·读史   
+<center>  毛泽东  
 <center>人猿相揖别。  
 <center>只几个石头磨过，  
 <center>小儿时节。  
