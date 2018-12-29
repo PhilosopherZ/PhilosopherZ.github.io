@@ -1,14 +1,14 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      《明朝那些事儿》-一颗心的故事                # 标题 
-subtitle:   用深度学习的方法来读历史 #副标题
+subtitle:   从深度学习的视角来看历史 #副标题
 date:       2018-12-29              # 时间
 author:     zhangzhe                      # 作者
-header-img: img/post-history-Ming.jpg    #这篇文章标题背景图片
+header-img: img/post-book.jpg    #这篇文章标题背景图片
 Reading: true
 catalog: true                       # 是否归档
 tags:                               #标签
-    -明朝那些事儿
+    - 明朝那些事儿
     - 读书
     - 历史
     - 深度学习
