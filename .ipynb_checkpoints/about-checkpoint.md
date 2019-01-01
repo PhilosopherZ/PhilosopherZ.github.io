@@ -20,11 +20,10 @@ header-img: "img/post-BeachSoccerBoys.jpg"
     </ul>
 </div>
 
-如有进一步交流与咨询，请加微信：
+如有进一步交流与咨询，请加微信  
 ![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/myWeChat-QRCode.jpg?token=Afj4-VFAoBeqDiin2-4cVkCoWcIKiiYTks5cNHu3wA%3D%3D)
 
  
 
-> 一篇读罢头飞雪，但记得斑斑点点 
-
+       一篇读罢头飞雪，但记得斑斑点点 
                                   ——《贺新郎·读史》毛泽东 
