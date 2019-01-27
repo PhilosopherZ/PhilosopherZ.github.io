@@ -1,7 +1,7 @@
 # Site settings
 title: Z Blog
 SEOTitle: 张哲的博客 | Zhangzhe Blog
-header-img: "img/homepage-logic.jpg"
+header-img: "img/homepage-logic-lake.jpg"
 email: zhangzhe@mail.iap.cn
 description: "> 此后如竟没有炬火，我便是唯一的光。"
 keyword: "Z Blog, 张哲的博客, zhangzhe, 张哲"
@@ -19,7 +19,7 @@ sidebar-avatar: /img/my_selfie1.jpg      # use absolute URL, seeing it's used in
 # SNS settings
 RSS: false
 weibo_username:     ilhelium
-zhihu_username:     ilhelium
+zhihu_username:     罗辑
 github_username:    PhilosopherZ
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   2bb2e5cf24a8
