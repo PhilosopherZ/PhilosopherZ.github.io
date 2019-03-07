@@ -14,6 +14,7 @@ header-img: "img/post-BeachSoccerBoys.jpg"
 ### 最近阅读
 > 《曾国藩传》
  《红星照耀中国》
+ 《人工智能的未来》
  
 ---
 《三体》-2019.03.03
