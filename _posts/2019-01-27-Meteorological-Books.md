@@ -23,7 +23,7 @@ tags:                               #标签
 
 ---
 
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-QNkFftwgie4MFGR29zDY04DRUd1ks5cVuZfwA%3D%3D) 
+![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-YBJEccrgVFVKVJsWTarQ8t2pMk7ks5coK2awA%3D%3D) 
 
 
 ## Atmospheric Physics（大气物理）
@@ -41,7 +41,7 @@ tags:                               #标签
 - [Recent-Progress-In-Atmospheric-Sciences-Applications-to-the-Asia-Pacific-Region](Atmospheric-physics/Recent-Progress-In-Atmospheric-Sciences-Applications-to-the-Asia-Pacific-Region.pdf)
 - [](Atmospheric-physics/)
 - [](Atmospheric-physics/)
-
+- [](Atmospheric-physics/)
 
 ## Atmospheric Boundary Layer (大气边界层)
 - [边界层气象学导论-Stull(完美版)](Atmospheric-boundary-layer/边界层气象学导论.pdf)
@@ -50,23 +50,24 @@ tags:                               #标签
 - [Turbulence in the Atmosphere by John C. Wyngaard](Atmospheric-boundary-layer/Turbulence-in-the-Atmosphere.pdf)
 - [Fundamentals of Fluid Mechanics, 6th Edition by Munson](Atmospheric-boundary-layer/Fundamentals-of-Fluid-Mechanics.pdf)
 - [Turbulent-Flows-Stephen-B.-Pope-Cornel-University](Atmospheric-boundary-layer/Turbulent-Flows-Stephen-B.-Pope-Cornel-University.pdf)
-- [](Atmospheric-boundary-layer/)
-- [](Atmospheric-boundary-layer/)
+- [Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc (2010)](Atmospheric-boundary-layer/Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc (2010).pdf)
 - [](Atmospheric-boundary-layer/)
 - [](Atmospheric-boundary-layer/)
 
 ## Atmospheric-Environment(大气环境)
-- []()
-- []()
-- []()
-- []()
+- [大气化学-王明星](Atmospheric-Environment/大气化学-王明星.pdf)
+- [大气环境化学-唐孝炎](Atmospheric-Environment/大气环境化学-唐孝炎.pdf)
+- [Introduction-to-Atmospheric-Chemistry-Cambridge-Hobbs](Atmospheric-Environment/Introduction-to-Atmospheric-Chemistry-Cambridge-Hobbs.pdf)
+- [](Atmospheric-Environment/.pdf)
+- [](Atmospheric-Environment/.pdf)
+- [](Atmospheric-Environment/.pdf)
 
 
 ## Atmospheric-Sounding(大气探测）
-- []()
-- []()
-- []()
-- []()
+- [Fundamentals-of-Remote-Sensing](Atmospheric-Sounding/Fundamentals-of-Remote-Sensing.pdf)
+- [多普勒天气雷达原理与业务应用](Atmospheric-Sounding/多普勒天气雷达原理与业务应用.pdf)
+- [](Atmospheric-Sounding/.pdf)
+- [](Atmospheric-Sounding/.pdf)
 
 ## Atmospheric-Dynamics (大气动力学)
 - [动力气象学](Atmospheric-Dynamics/动力气象学.pdf)
@@ -158,10 +159,10 @@ tags:                               #标签
 - [小波分析十讲](Mathematical-Methods/小波分析十讲.pdf)
 - [黄嘉佑气象统计分析与预报方法](Mathematical-Methods/黄嘉佑气象统计分析与预报方法.pdf)
 - [气象水文统计分析中显著性检验的应用](Mathematical-Methods/气象水文统计分析中显著性检验的应用.pdf)
+- [气象统计预报-施能](Mathematical-Methods/气象统计预报-施能.pdf)
 - [](Mathematical-Methods/)
 - [](Mathematical-Methods/)
 - [](Mathematical-Methods/)
-
 
 ## History and stories（历史与故事）
 - [发现之旅系列-气象学](History-and-stories/发现之旅系列-气象学.pdf)
