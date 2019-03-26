@@ -4,7 +4,7 @@ title:      《明朝那些事儿》-一颗心的故事                # 标题
 subtitle:   从深度学习的视角来看历史 #副标题
 date:       2018-12-29              # 时间
 author:     zhangzhe                      # 作者
-header-img: img/post-book.jpg    #这篇文章标题背景图片
+header-img: img/grand-Mount-taihang.jpg    #这篇文章标题背景图片
 Reading: true
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -27,7 +27,7 @@ tags:                               #标签
 
 现在深度学习很火，当然也很强大。它的强大依赖于一个方法-梯度下降法。简单解释一下，想象你身处群山之中，你必须达到群山之间的最低点或者不是整个地区最低点，到达相对较低的地方也不错，因为那里往往是人们聚居的地方，你看看地图，很容易发现聚居地大都在那些地方。但是你的眼睛看不到了，你只能摸黑前进，或者说雾霾较大，能见度只有一米左右。在这个情况下，你怎么走呢？对了，我们假定整个地区都是都是光滑的，意思就是不会出现这边是平缓的地带没过几步就是90度的悬崖峭壁，所以整个地区都是平缓地变化的，即使陡坡也是连续降低的。那么你如何走呢？你应该让脚底紧贴地面，然后以脚后跟为圆心缓慢画圆，感受各个方向（360度）的坡度，找到下降最大的那个方向，然后向那个方向走一小步，重复刚才的步骤，画圆、找方向、前进，不断重复，最终你会走到一个较四周都低的山谷里，那时你感觉脚底是平的，在各个方向都没有下降趋势，那里可能有人居住，你就可以吃饭了。你可以参考下面的两幅图。梯度下降法其实就相当于上面下山的一个步骤（画圆、找方向、前进一小步），深度学习中的训练就是说要不断地进行梯度下降法，一步一步不断地走，直到最低点。这个方法更详细的介绍在各种深度学习的课程中都有介绍，只不过用数学的方式表达的，参见[Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) 或3blue1brown深度学习之梯度下降法。
 
-![梯度下降法](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Gradient.png?token=Afj4-ZAlPuj1im4Mzu4Z7JplIHUMqZpLks5cMKhKwA%3D%3D)
+![梯度下降法](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Gradient.png?token=Afj4-R6NVtt1BFaTieKghfEETI0Lmiydks5cowfLwA%3D%3D)
 
 
 
