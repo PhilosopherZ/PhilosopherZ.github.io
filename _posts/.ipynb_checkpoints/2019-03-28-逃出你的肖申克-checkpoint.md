@@ -13,7 +13,7 @@ tags:                               #标签
     - 肖申克的救赎
 ---
 
-<center> 阳光沥肩头，仿佛自由人  
+> 阳光沥肩头，仿佛自由人  
   
 ![The-Shawshank-Redemption](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/The-Shawshank-Redemption.jpg?token=Afj4-QJjzs2GcQZK24-DeKLfQ2C7KGjtks5cpVGxwA%3D%3D)
 
