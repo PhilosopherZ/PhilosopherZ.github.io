@@ -2,7 +2,7 @@
 layout:     post                    # 使用的布局（不需要改）
 title:      逃出你的肖申克                # 标题 
 subtitle:   逃出你的监狱 #副标题
-date:       2019-03-22              # 时间
+date:       2019-03-28              # 时间
 author:     zhangzhe                      # 作者
 header-img: img/desert.jpg    #这篇文章标题背景图片
 Reading: true
@@ -12,11 +12,11 @@ tags:                               #标签
     - 幸福
     - 肖申克的救赎
 ---
+
+<center> 阳光沥肩头，仿佛自由人
+
 ![The-Shawshank-Redemption](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/The-Shawshank-Redemption.jpg?token=Afj4-QJjzs2GcQZK24-DeKLfQ2C7KGjtks5cpVGxwA%3D%3D)
 
-
-
-阳光沥肩头，仿佛自由人
 
 《肖申克的救赎》
 里面有忍耐、希望、逼迫、自由、勇气、技能。
