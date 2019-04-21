@@ -17,7 +17,7 @@ tags:                               #标签
 波尔：爱因斯坦，别去指挥上帝该怎么做！  
 霍金：上帝不但掷骰子，他还把骰子掷到我们看不见的地方去了！
 
-![索尔维会议参会人员合影](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Solvay-Confe-z.jpg?token=Afj4-RGsDVkYqdWnpCDZyVNVngqW0VB9ks5cpa1gwA%3D%3D)
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aauhww82j30qo0f076f.jpg)
 
 <center>       决战量子之巅-索尔维会议参会人员合影   </center> 
     
@@ -29,7 +29,9 @@ tags:                               #标签
 
 这本书让我们有机会感受那个“物理学上最激动人心的篇章，我们会看到物理大厦在狂风暴雨下轰然坍塌，却又在熊熊烈焰中得到了洗礼和重生。”
 
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/post-Hertz.jpg?token=Afj4-Yj0Y__sewD0t3Goift0rf5jkHyKks5cpa23wA%3D%3D)    
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aavh31xbj30n40dwdia.jpg)  
+<center>       赫兹   </center>
+
 故事从一个验证了电磁波存在的实验说起，电磁场论由此彻底建立。伟大的法拉第为它打下了基础，伟大的麦克斯韦建造了它的主体，伟大的赫兹为这座大厦封了顶。不过，在这个非凡的实验中，赫兹还忠实的记录了下了一个他百思不得其解的现象，并写成了一篇论文。可想而知，它没有引起太多人的注意，也没有人领会它的真正意义。“连赫兹自己也不知道他已经亲手触摸到了量子这个还在出沉睡的幽灵，虽然还没能将其唤醒，却已给刚刚达到繁盛的电磁场论安排下了一个可怕的诅咒。”只不过它还要等待开启它的那两个人的到来。
 
 1887年，基尔霍夫在柏林去世，亥姆霍兹推荐赫兹继任。认为柏林太过喧嚣的赫兹拒绝了他的老师。后者还写信勉励自己的学生：“一个希望与众多科学问题搏斗的人最好还是远离大都市”。顶替他去柏林的那个人命中注定会将会唤醒这个幽灵，而解决那个奇怪想象的人又注定将它带到整个欧洲上空进而涤荡一切！  
