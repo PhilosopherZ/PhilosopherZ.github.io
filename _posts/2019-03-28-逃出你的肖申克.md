@@ -13,9 +13,9 @@ tags:                               #标签
     - 肖申克的救赎
 ---
 
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aamgcjfqj30u00gv0tz.jpg)
 > 阳光沥肩头，仿佛自由人  
   
-![The-Shawshank-Redemption](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/The-Shawshank-Redemption.jpg?token=Afj4-QJjzs2GcQZK24-DeKLfQ2C7KGjtks5cpVGxwA%3D%3D)
 
 
 《肖申克的救赎》
