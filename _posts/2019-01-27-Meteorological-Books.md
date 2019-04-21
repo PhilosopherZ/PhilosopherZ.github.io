@@ -23,7 +23,7 @@ tags:                               #标签
 
 ---
 
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/Repository-layers-of-the-atmosphere.jpg?token=Afj4-YBJEccrgVFVKVJsWTarQ8t2pMk7ks5coK2awA%3D%3D) 
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aaoi8x8pj30zk0k044p.jpg)
 
 
 ## Atmospheric Physics（大气物理）
@@ -39,7 +39,7 @@ tags:                               #标签
 - [The-Earth’s-Atmosphere](Atmospheric-physics/The-Earth’s-Atmosphere.pdf)
 - [Studies-in-the-Atmospheric-Sciences](Atmospheric-physics/Studies-in-the-Atmospheric-Sciences.pdf)
 - [Recent-Progress-In-Atmospheric-Sciences-Applications-to-the-Asia-Pacific-Region](Atmospheric-physics/Recent-Progress-In-Atmospheric-Sciences-Applications-to-the-Asia-Pacific-Region.pdf)
-- [](Atmospheric-physics/)
+- [Atmospheric-Chemistry-and-Physics-From-Air-Pollution-to-Climate-Change](Atmospheric-physics/Atmospheric-Chemistry-and-Physics-From-Air-Pollution-to-Climate-Change.pdf)
 - [](Atmospheric-physics/)
 - [](Atmospheric-physics/)
 
@@ -49,23 +49,36 @@ tags:                               #标签
 - [Atmospheric Boundary Layer Flows by J. C. KAIMAL and J. J. FINNICAN](Atmospheric-boundary-layer/Atmospheric-Boundary-Layer-Flows.pdf)
 - [Turbulence in the Atmosphere by John C. Wyngaard](Atmospheric-boundary-layer/Turbulence-in-the-Atmosphere.pdf)
 - [Fundamentals of Fluid Mechanics, 6th Edition by Munson](Atmospheric-boundary-layer/Fundamentals-of-Fluid-Mechanics.pdf)
+- [Fundamentals-of-Fluid-Mechanics-7th-Edition-By-Munson.pdf](Atmospheric-boundary-layer/Fundamentals-of-Fluid-Mechanics-7th-Edition-By-Munson.pdf)
 - [Turbulent-Flows-Stephen-B.-Pope-Cornel-University](Atmospheric-boundary-layer/Turbulent-Flows-Stephen-B.-Pope-Cornel-University.pdf)
-- [Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc (2010)](Atmospheric-boundary-layer/Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc (2010).pdf)
-- [](Atmospheric-boundary-layer/)
-- [](Atmospheric-boundary-layer/)
+- [Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc(2010)](Atmospheric-boundary-layer/Atmospheric-Turbulence-Meteorological-Modeling-and-Aerodynamics-Nova-Science-Pub-Inc(2010).pdf)
+- [ATMOSPHERIC-TURBULENCE-AND-AIR-POLLUTION-MODELLING](Atmospheric-boundary-layer/ATMOSPHERIC-TURBULENCE-AND-AIR-POLLUTION-MODELLING.pdf)
+- [Atmospheric-Turbulence-A-molecular-dynamics-Perspective](Atmospheric-boundary-layer/Atmospheric-Turbulence-A-molecular-dynamics-Perspective.pdf)
+- [Turbulence-Coherent-Structures-Dynamical-Systems-and-Symmetry](Atmospheric-boundary-layer/Turbulence-Coherent-Structures-Dynamical-Systems-and-Symmetry.pdf)
+- [](Atmospheric-boundary-layer/.pdf)
+- [](Atmospheric-boundary-layer/.pdf)
+- [](Atmospheric-boundary-layer/.pdf)
+- [](Atmospheric-boundary-layer/.pdf)
+
+
+
+
 
 ## Atmospheric-Environment(大气环境)
 - [大气化学-王明星](Atmospheric-Environment/大气化学-王明星.pdf)
 - [大气环境化学-唐孝炎](Atmospheric-Environment/大气环境化学-唐孝炎.pdf)
 - [Introduction-to-Atmospheric-Chemistry-Cambridge-Hobbs](Atmospheric-Environment/Introduction-to-Atmospheric-Chemistry-Cambridge-Hobbs.pdf)
-- [](Atmospheric-Environment/.pdf)
-- [](Atmospheric-Environment/.pdf)
+- [ATMOSPHERIC-TURBULENCE-AND-AIR-POLLUTION-MODELLING](Atmospheric-Environment/ATMOSPHERIC-TURBULENCE-AND-AIR-POLLUTION-MODELLING.pdf)
+- [Atmospheric-Chemistry-and-Physics-From-Air-Pollution-to-Climate-Change](Atmospheric-Environment/Atmospheric-Chemistry-and-Physics-From-Air-Pollution-to-Climate-Change.pdf)
 - [](Atmospheric-Environment/.pdf)
 
 
 ## Atmospheric-Sounding(大气探测）
 - [Fundamentals-of-Remote-Sensing](Atmospheric-Sounding/Fundamentals-of-Remote-Sensing.pdf)
 - [多普勒天气雷达原理与业务应用](Atmospheric-Sounding/多普勒天气雷达原理与业务应用.pdf)
+- [大气物理与大气探测学](Atmospheric-Sounding/大气物理与大气探测学.pdf)
+- [](Atmospheric-Sounding/.pdf)
+- [](Atmospheric-Sounding/.pdf)
 - [](Atmospheric-Sounding/.pdf)
 - [](Atmospheric-Sounding/.pdf)
 
@@ -169,29 +182,30 @@ tags:                               #标签
 - [气象学-站在科学前沿的巨人-凯瑟林·库伦](History-and-stories/气象学-站在科学前沿的巨人-凯瑟林·库伦.pdf)
 - [StormWatcher](History-and-stories/StormWatcher.pdf)  
 - [](History-and-stories/)
-
+  
 
 ## 补充
-该仓库保持随时更新。本人能力所限，了解的书籍资料和总结定有不足，在强烈欢迎各位的宝贵建议。
-> 如果你有好的建议，请通知我。如果你有github账号，就在本仓库的 Issues 里提出来。如果没有，本人建议你可以申请一个，几分钟搞定，你可以在网上或知乎上搜一下github， 看它都能做什么，这个东西还是蛮有趣的也很有用。
-> 或者通过邮箱联系，或者微信。
+- 这些书籍不用于涉及任何盈利和任何商业利益的用途，仅供学习交流使用，如有书籍涉及侵权等版权问题，即刻删除，如有其他人用此合集书籍用作其他任何用途，概不负责。
+
+  
+
+- 大家也可以贡献一份力量，如果没有github账号，可以申请一个，很方便的，上面有好多其他资源，不只是我这个合集，当然也有很多厉害的人，可以学到一些东西。想知道它能做哪些，请看[如何使用 GitHub？](https://www.zhihu.com/question/20070065/answer/79557687)打开新世界大门！！
+
+- 
+
+- 该仓库随时保持更新。本人能力所限，了解的书籍资料和总结定有不足，强烈欢迎各位的宝贵建议。
+
+- 如果你有好的建议，请通知我。如果你有github账号，就在本仓库的 Issues 里提出来。如果没有，本人建议你可以申请一个。
+  如果有任何问题，可以通过邮箱或在此仓库下的问题部分联系我。
 
 #### 很重要！很重要！很重要！
 
 如果你知道这里哪些书有新版本或者其他情况，请通知我！
 如果你知道还有哪些好书需要增加，请在issues里说明或通知我！
-如果你有好书，可以分享到这里，欢迎 push!
+如果你有好书，可以分享到这里，欢迎 贡献!
 
-
-欢迎 push!  
-欢迎 push!  
-欢迎 push!
+欢迎 贡献!  
+欢迎 贡献!  
+欢迎 贡献!
 
 喜欢就star❤️一下吧！
-
-
-## 和我交流
-
-| 二维码                                                       |
-| ------------------------------------------------------------ |
-| ![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/Imges/myWeChat-QRCode.jpg?token=Afj4-a1d5pBGBVMRdfhepnQdJ8H500vkks5cVuYEwA%3D%3D) |
