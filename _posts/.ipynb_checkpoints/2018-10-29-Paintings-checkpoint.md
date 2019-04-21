@@ -15,18 +15,18 @@ tags:                               #标签
 从古至今，山川吸引了无数的人  
 辛弃疾有一句“我见青山多妩媚，料青山见我应如是”。  
   
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/MyPaintings/my-paintings-mountain.jpg)  
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aazkgplkj30u013z40t.jpg)  
 
 [八大山人](https://zh.wikipedia.org/wiki/八大山人)，明末清初画家，画风简洁有力。
   
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/MyPaintings/my-paintings-badashanren.jpg)  
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aay2ocuij30u00u0jsl.jpg) 
 
 
 2017年看过一部很好看的电影——**V字仇杀队**
   
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/MyPaintings/my-paintings-v.jpg) 
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aazxj8jcj31900u0abv.jpg)
   
-![](https://raw.githubusercontent.com/PhilosopherZ/ImgeBed/master/MyPaintings/my-paintings-v-red.jpg)
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2ab07sukcj31900u0jv1.jpg)
 
 
 
