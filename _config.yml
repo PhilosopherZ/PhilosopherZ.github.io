@@ -12,7 +12,7 @@ github_repo: "https://github.com/philosopherz/philosopherz.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "此后如竟没有炬火，我便是唯一的光"
-sidebar-avatar: /img/my_selfie2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/my_selfie3.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
