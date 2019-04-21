@@ -1,15 +1,12 @@
 ---
-layout:     post                    # 使用的布局（不需要改）
-title:      # 我的涂鸦               # 标题 
-subtitle:   绘画 #副标题
-date:       2018-10-29              # 时间
-author:     zhangzhe                      # 作者
-header-img: img/404-bg.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - 绘画
+layout: page
+title: "MyPaintings"
+description: "Not everyone can become a great artist, but a great artist can come from anywhere."
+header-img: "img/post-BeachSoccerBoys.jpg"
 ---
- 
+
+> Not everyone can become a great artist, but a great artist can come from anywhere.
+
 有时候随便画画
 
 从古至今，山川吸引了无数的人  
