@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      小谈苏东坡                # 标题 
-subtitle:   吾上可陪玉皇大帝，下可以陪卑田院乞儿，眼前见天下无一不好人 #副标题
+subtitle:   苏东坡 #副标题
 date:       2019-05-30              # 时间
 author:     zhangzhe                      # 作者
 header-img: img/desert.jpg    #这篇文章标题背景图片
