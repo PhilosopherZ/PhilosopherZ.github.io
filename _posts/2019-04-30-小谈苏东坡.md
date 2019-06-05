@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      苏东坡                # 标题 
+title:      小谈苏东坡                # 标题 
 subtitle:   苏东坡 #副标题
 date:       2019-06-03              # 时间
 author:     zhangzhe                      # 作者
@@ -8,10 +8,9 @@ header-img: img/desert.jpg    #这篇文章标题背景图片
 Reading: true
 catalog: true                       # 是否归档
 tags:                               #标签
-    - 五四
-    - 五四运动
-    - 青年
-    - 家国天下
+    - 读书
+    - 苏东坡
+	- 历史
 ---
 
 有人说，苏东坡可能情商低。
