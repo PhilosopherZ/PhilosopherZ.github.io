@@ -15,11 +15,12 @@ tags:                               #标签
 
 
 
-> [Meteorological-Books](https://github.com/PhilosopherZ/Meteorological-Books)    
->
+# [Meteorological-Books](https://github.com/PhilosopherZ/Meteorological-Books)
 > 作者：[zhangzhe](https://philosopherz.github.io/)  
-> 邮件： zhangzhe@mail.iap.ac.cn & 1348729333@qq.com  
-> 本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。
+  邮件： zhangzhe@mail.iap.ac.cn & 1348729333@qq.com  
+  本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
+  **但强烈欢迎你推荐给你认为需要的人——“奇文共欣赏，疑义相与析”**  
+  “我有一壶酒，足以慰风尘。尽倾江海里，赠饮天下人”
 
 ---
 
@@ -30,7 +31,7 @@ tags:                               #标签
 - [C.-Donald-Ahrens-Meteorology-Today-9th-Edition](Atmospheric-physics/[C._Donald_Ahrens]_Meteorology_Today-9th-Edition.pdf)
 - [C.-Donald-Ahrens-Meteorology-Today-An Introduction to Weather, Climate, and the Environment(2018)](Atmospheric-physics/C.-Donald-Ahrens,-Robert-Henson-Meteorology-Today-An-Introduction-to-Weather,-Climate,-and-the-Environment-Cengage-Learning-(2018).pdf)
 - [Wallace-Hobbs-Atmospheric-Science]([Atmospheric-physics/Wallace-Hobbs-Atmospheric-science.pdf)
-- [大气物理学-盛裴轩](Atmospheric-physics/大气物理学-盛裴轩.pdf)
+- [大气物理学-盛裴轩](https://pan.baidu.com/s/1xI15rbZHhLjKzx3CRqRtxg ) 提取码：jp6y
 - [大气科学概论-黄荣辉编](Atmospheric-physics/大气科学概论-黄荣辉编.pdf)
 - [云和降水物理-黄美元](Atmospheric-physics/云和降水物理-黄美元.pdf)
 - [[Kuo-Nan-Liou]-AN-INTRODUCTION-TO-ATMOSPHERIC-RADIATION](Atmospheric-physics/[Kuo-Nan-Liou]-AN-INTRODUCTION-TO-ATMOSPHERIC-RADIATION.pdf)
@@ -70,6 +71,9 @@ tags:                               #标签
 - [Introduction-to-Atmospheric-Chemistry-Cambridge-Hobbs](Atmospheric-Environment/Introduction-to-Atmospheric-Chemistry-Cambridge-Hobbs.pdf)
 - [ATMOSPHERIC-TURBULENCE-AND-AIR-POLLUTION-MODELLING](Atmospheric-Environment/ATMOSPHERIC-TURBULENCE-AND-AIR-POLLUTION-MODELLING.pdf)
 - [Atmospheric-Chemistry-and-Physics-From-Air-Pollution-to-Climate-Change](Atmospheric-Environment/Atmospheric-Chemistry-and-Physics-From-Air-Pollution-to-Climate-Change.pdf)
+- [Fundamentals_of_Air_Pollution-Daniel_Vallero](Atmospheric-Environment/Fundamentals_of_Air_Pollution-Daniel_Vallero.pdf)
+- [](Atmospheric-Environment/.pdf)
+- [](Atmospheric-Environment/.pdf)
 - [](Atmospheric-Environment/.pdf)
 
 
@@ -104,7 +108,7 @@ tags:                               #标签
 - [Precipitation_and_Measurements_of_Precipitation](Weather-and-Climate/Precipitation_and_Measurements_of_Precipitation.pdf)
 - [Predictability-of-Weather-and-Climate](Weather-and-Climate/Predictability-of-Weather-and-Climate.pdf)
 - [Regional-Climate-Studies-of-China](Weather-and-Climate/Regional-Climate-Studies-of-China.pdf)
-- [Severe-Convective-Storms](Weather-and-Climate/Severe-Convective-Storms.pdf)
+- [Severe-Convective-Storms](https://pan.baidu.com/s/17Enhf4oiNFkp0fOXp-7KxQ) 提取码：wjos
 - [Synoptic-and-Dynamic-Climatology](Weather-and-Climate/Synoptic-and-Dynamic-Climatology.pdf)
 - [The-Asian-monsoon](Weather-and-Climate/The-Asian-monsoon.pdf)
 - [The-Encyclopedia-of-World-Climatology](Weather-and-Climate/The-Encyclopedia-of-World-Climatology.pdf)
@@ -150,7 +154,7 @@ tags:                               #标签
 
 
 ## Numerical weather prediction (数值天气预报）
-- [数值天气预报的数学物理基础-1979-曾庆存](Numerical-weather-prediction/数值天气预报的数学物理基础-1979-曾庆存.pdf)
+- [数值天气预报的数学物理基础-1979-曾庆存](https://pan.baidu.com/s/1VPGEodYMSc0gGF_6-AjWSA ) 提取码：2136
 - [长期数值天气预报（修订本）](Numerical-weather-prediction/长期数值天气预报（修订本）.pdf)
 - [数值模式中的谱方法](Numerical-weather-prediction/数值模式中的谱方法.pdf)
 - [数值预报与数值模拟方法-周任君博士](Numerical-weather-prediction/数值预报与数值模拟方法-周任君博士.pdf)
@@ -167,7 +171,7 @@ tags:                               #标签
 - [Statistical-Data-Analysis-for-Ocean-and-Atmospheric-Sciences](Mathematical-Methods/Statistical-Data-Analysis-for-Ocean-and-Atmospheric-Sciences.pdf)
 - [应用气象统计](Mathematical-Methods/应用气象统计.pdf)
 - [气象数据分析方法合集](Mathematical-Methods/气象数据分析方法合集.pdf)
-- [气象数据统计分析方法-黄嘉佑](Mathematical-Methods/气象数据统计分析方法-黄嘉佑.pdf)
+- [气象数据统计分析方法-黄嘉佑](https://pan.baidu.com/s/1RIsk6DfrNZXHCTXkUuhmvg ) 提取码：sg91
 - [气象统计预报](Mathematical-Methods/气象统计预报.pdf)
 - [小波分析十讲](Mathematical-Methods/小波分析十讲.pdf)
 - [黄嘉佑气象统计分析与预报方法](Mathematical-Methods/黄嘉佑气象统计分析与预报方法.pdf)
